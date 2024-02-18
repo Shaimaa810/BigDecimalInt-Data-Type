@@ -1,0 +1,14 @@
+# ninja log v5
+1	2174	7299190544931812	CMakeFiles/BigDecimalInt.dir/main.cpp.obj	9be0c1bfcd9c1eef
+29	3294	7299190556106091	CMakeFiles/BigDecimalInt.dir/BigDecimalInt.cpp.obj	a552134da4f4fe84
+3	1627	7299190967595086	CMakeFiles/BigDecimalInt.dir/main.cpp.obj	9be0c1bfcd9c1eef
+3	2825	7299191370339090	CMakeFiles/BigDecimalInt.dir/BigDecimalInt.cpp.obj	a552134da4f4fe84
+2826	4115	7299191383266898	BigDecimalInt.exe	a43086c5622dc63d
+2	1514	7299191540856910	CMakeFiles/BigDecimalInt.dir/main.cpp.obj	9be0c1bfcd9c1eef
+1515	2670	7299191552370924	BigDecimalInt.exe	a43086c5622dc63d
+2	1365	7299191700186864	CMakeFiles/BigDecimalInt.dir/main.cpp.obj	9be0c1bfcd9c1eef
+1365	2464	7299191711134822	BigDecimalInt.exe	a43086c5622dc63d
+2	1500	7299191816955664	CMakeFiles/BigDecimalInt.dir/main.cpp.obj	9be0c1bfcd9c1eef
+1500	2643	7299191828310941	BigDecimalInt.exe	a43086c5622dc63d
+2	1460	7299191945047850	CMakeFiles/BigDecimalInt.dir/main.cpp.obj	9be0c1bfcd9c1eef
+1460	2658	7299191956922642	BigDecimalInt.exe	a43086c5622dc63d
